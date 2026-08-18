@@ -7,7 +7,7 @@ import Purchases from '../assets/purchases.svg'
 import Sales from '../assets/sales.svg'
 import Settings from '../assets/settings.svg'
 import Transfers from '../assets/transfers.svg'
-import Reports from '../assets/reports.svg'
+import Reports from '../assets/Reports.svg'
 
 const API_URL = import.meta.env.VITE_API_URL || 'http://localhost:5144/api'
 

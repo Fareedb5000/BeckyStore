@@ -1,13 +1,13 @@
 //strange comment 
 import { Link, useNavigate } from 'react-router-dom'
-import logo from './assets/logo.png'
+import logo from './assets/Logo.png'
 import Dashboard from './assets/dashboard.svg'
 import Products from './assets/products.svg'
 import Purchases from './assets/purchases.svg'
 import Sales from './assets/sales.svg'
 import Settings from './assets/settings.svg'
 import Transfers from './assets/transfers.svg'
-import Reports from './assets/reports.svg'
+import Reports from './assets/Reports.svg'
 
 const LandingPage = () => {
   const navigate = useNavigate()
